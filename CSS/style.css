@@ -1,7 +1,8 @@
 /**************
     CSS Reset 
  **************/
-
+ @import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Baloo+Bhaina+2&family=Ubuntu&display=swap');
+ 
 * {
     margin: 0;
     padding: 0;
